@@ -1,0 +1,17 @@
+---
+title: "test" 
+author: Russ Poldrack
+institute: Stanford University
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    height: 1080
+    width: 1920
+---
+
+## Example slide
+
+Text here
